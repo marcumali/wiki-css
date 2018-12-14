@@ -5,7 +5,7 @@
 
 Guide and best practice of web development
 
-## CSS
+## GUIDE
 
 * try to avoid page specific css since it's not a modular way of working don't nestle more than 2 levels unless:
 * `:pseudo. @content-mixins` or media query (then aim keep it under 4)
