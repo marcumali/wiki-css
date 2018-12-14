@@ -17,19 +17,19 @@ CSS:
 .ratio-16-9{
 	height:0;
 	margin-bottom: 45px;
-	overflow:hidden;
-	padding-bottom:56.25%;
-	padding-top:30px;
+	overflow: hidden;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
   
-	position:relative;
+	position: relative;
   
 	iframe{
-		height:100%;
-		width:100%;
+		height: 100%;
+		width: 100%;
 
-		left:0;
-		position:absolute;
-		top:0;
+		left: 0;
+		position: absolute;
+		top: 0;
 	}
   
 }
