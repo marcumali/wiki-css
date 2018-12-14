@@ -4,7 +4,7 @@
 
 Guide and best practice of web development
 
-## Scale Iframe - SASS
+## 1. Scale Iframe
 HTML:
 ```html
 <div class="ratio-16-9">
